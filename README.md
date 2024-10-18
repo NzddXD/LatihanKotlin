@@ -1,2 +1,2 @@
-# LatihanKotlin
-Cloud-storage latihan kotlin
+# Cloud Storage Kotlin
+Clud storage untuk latihan kotlin ku (:
